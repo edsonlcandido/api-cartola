@@ -57,7 +57,7 @@ ex: https://api.cartolafc.globo.com/busca?q=C.R.%20HRoMeU
 https://api.cartolafc.globo.com/atletas/pontuados
 
 # Auth
-Algumas url necessitam de autenticação, porém não usei eas ainda enão sei como proceder para as autenticações
+Algumas url necessitam de autenticação, porém não usei elas ainda então não sei como proceder para as autenticações
 ## time do usuario logado
 https://api.cartolafc.globo.com/auth/time
 
