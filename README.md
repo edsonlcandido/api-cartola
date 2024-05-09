@@ -13,7 +13,7 @@ https://api.cartolafc.globo.com/mercado/destaques
 ## status do mercado
 https://api.cartolafc.globo.com/mercado/status
 
-## rankimgs
+## rankings
 https://api.cartola.globo.com/rankings
 
 ## partidas por rodada
